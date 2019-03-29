@@ -16,7 +16,7 @@ namespace Ecomonedas.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            String Jose = "Hola soy Jose";
             return View();
         }
 
