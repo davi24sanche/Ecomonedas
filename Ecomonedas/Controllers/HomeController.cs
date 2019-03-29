@@ -18,6 +18,7 @@ namespace Ecomonedas.Controllers
             ViewBag.Message = "Your application description page.";
             String Jose = "Hola soy Jose";
             String Marie = "Hi jose im working on Front-End";
+            String final = "Cambio";
             return View();
         }
 
